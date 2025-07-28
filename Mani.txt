@@ -1,2 +1,3 @@
 
-Hello, I am Manikat Kumar
+Hello, I am Manikant Kumar
+This is my first git commit
